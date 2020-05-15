@@ -11,7 +11,7 @@ namespace OFOS.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-
+            var a = 2;
             return View();
         }
     }
