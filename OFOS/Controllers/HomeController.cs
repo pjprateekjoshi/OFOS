@@ -12,6 +12,7 @@ namespace OFOS.Controllers
         {
             ViewBag.Title = "Home Page";
             var a = 2;
+            var b = 3;
             return View();
         }
     }
